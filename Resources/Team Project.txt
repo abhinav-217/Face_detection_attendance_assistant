@@ -1,0 +1,20 @@
+As written in the problem Statement There must be a unique way of taking the attendance so that 
+
+1st Part:-
+    Sabse pehle Ham live image lenge webcam jaisi thik  (loop me chalega wo)
+    Thik changa
+2nd Part:-
+    Uske baad ham detect karenge ki eyes blink ho rhi h ki nhi 
+    isse koi kisi ki photo se attendance nhi laga payega
+3rd Part:-
+    Fir iss part me agar eyes blink ho rhi hogi to fir ham 
+    detect karenge face kiska or usko match karenge
+    database se
+
+4th Part:-
+    And Atlast agar faces match hota h to ham uska
+    attendance mark karenge ek excel file me ya koi or file me
+
+Dekh tera iris wala idea bhi bhut acha h par na usme ek dikkat h usme hamlog ko bhut advance level ka
+Machine Learning Algorithm lagega Jo na mere ko bhi ata h or na tere ko isliye bol rha ye wala idea laate 
+ye mast h isme apna college me bhi naam hojayega itna advance project banaye ham karke 😂😂😁😁
